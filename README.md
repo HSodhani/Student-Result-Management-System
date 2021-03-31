@@ -14,6 +14,7 @@ This project was originally hosted on AWS ec2 ubuntu 16.04 instance.
 4.Import the database file "srms.sql"
 
 5.go to http://localhost/dashboard/srms/
+
 6. ADMIN DETAILS 
 
 ID - admin
