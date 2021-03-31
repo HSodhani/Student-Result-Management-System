@@ -9,7 +9,7 @@ This project was originally hosted on AWS ec2 ubuntu 16.04 instance.
 
 2.Install XAMP
 
-3.Create a database named "srms"
+3.Login to phpmyadmin and create a database named "srms"
 
 4.Import the database file "srms.sql"
 
